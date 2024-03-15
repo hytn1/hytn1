@@ -1,4 +1,7 @@
 ### Hello I'm Haytan👋
+- 📅 17 year's old
+- 📍 from Jau - São Paulo
+- 💻 study at ETEC - Systems Development
 
 
 <div style="display: inline_block">
