@@ -1,5 +1,5 @@
 ### Hello I'm Haytan👋
-- 📅 17 year's old
+- 📅 18 year's old
 - 📍 from Jau - São Paulo
 - 💻 study at ETEC - Systems Development
 
@@ -10,7 +10,7 @@
 [![LastFM](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/pt/user/hytn_)
 [![LastFM](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haytan-sabeh-854752297/)
 
-![Haytan GitHub stats](https://github-readme-stats.vercel.app/api?username=hytn1&show_icons=true&theme=dracula&count_private=true)
+
 
 ## Technologies I use:
 
