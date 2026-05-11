@@ -1,7 +1,8 @@
-### Hello I'm Haytan👋
-- 📅 18 year's old
+### Hello World, I'm Haytan👋
+- 📅 19 year's old
 - 📍 from Jau - São Paulo
 - 💻 study at ETEC - Systems Development
+- 💻 currently studying computer science at Unisagrado
 
 
 <div style="display: inline_block">
