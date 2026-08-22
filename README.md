@@ -1,26 +1,49 @@
-### Hello World, I'm Haytan👋
-- 📅 19 year's old
-- 📍 from Jau - São Paulo
-- 💻 study at ETEC - Systems Development
-- 💻 currently studying computer science at Unisagrado
+# Hello World! I'm Haytan 👋
 
+🎓 **Computer Science student at UNISAGRADO**
+💻 **Systems Development Technician graduated from ETEC Jaú**
+🚀 Interested in **Software Development, Web Development and Technology**
 
-<div style="display: inline_block">
- 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/haytan_godoi)
-[![LastFM](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haytan-sabeh-854752297/)
+I'm a Computer Science student passionate about technology and software development. I have a technical background in Systems Development, where I gained practical experience with programming, web development, databases and systems analysis.
 
+Currently, I'm looking for opportunities to **learn, develop my skills and gain professional experience in the technology field**.
 
+## 🚀 Technologies & Tools
 
-## Technologies I use:
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="C#" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="C" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C-sharp&logoColor=white" />
-   <img align="center" alt="my" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-   
+## 📚 Currently Learning
 
- 
+* Software Development
+* Object-Oriented Programming
+* Databases and SQL
+* Web Development
+* Software Engineering
+* C# / .NET
 
+## 💼 Career Goal
+
+I'm currently seeking an **internship opportunity in technology**, where I can apply my knowledge, contribute to real-world projects and continue developing my technical and professional skills.
+
+## 📫 Contact
+
+<div>
+  <a href="mailto:haytansabeh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/haytan-sabeh-854752297/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
+---
+
+⭐ Feel free to explore my repositories and projects!
