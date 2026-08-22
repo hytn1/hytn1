@@ -36,14 +36,12 @@ I'm currently seeking an **internship opportunity in technology**, where I can a
 ## 📫 Contact
 
 <div>
-  <a href="mailto:haytansabeh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+ <a href="mailto:haytansabeh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-haytansabeh%40gmail.com-D1485F?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
   <a href="https://www.linkedin.com/in/haytan-sabeh-854752297/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 
----
 
-⭐ Feel free to explore my repositories and projects!
