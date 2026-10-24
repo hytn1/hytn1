@@ -1,7 +1,9 @@
 # Hello World! I'm Haytan 👋
 
 🎓 **Computer Science student at UNISAGRADO**
+
 💻 **Systems Development Technician graduated from ETEC Jaú**
+
 🚀 Interested in **Software Development, Web Development and Technology**
 
 I'm a Computer Science student passionate about technology and software development. I have a technical background in Systems Development, where I gained practical experience with programming, web development, databases and systems analysis.
