@@ -1,16 +1,12 @@
-# Hello World! I'm Haytan 👋
+# Hello World! I'm Haytan Sabeh
 
-🎓 **Computer Science student at UNISAGRADO**
+**Computer Science student at UNISAGRADO | IT Intern | Systems Development Technician**
 
-💻 **Systems Development Technician graduated from ETEC Jaú**
+I'm a Computer Science student at UNISAGRADO and a graduate in Systems Development from ETEC Jaú. Currently, I'm working as an **IT Intern**, gaining professional experience with corporate systems, BPM (Business Process Management), process automation and IT support.
 
-🚀 Interested in **Software Development, Web Development and Technology**
+I have an interest in software development, programming and technology. I'm constantly learning, improving my technical skills and exploring new tools to develop efficient solutions and grow professionally in the technology field.
 
-I'm a Computer Science student passionate about technology and software development. I have a technical background in Systems Development, where I gained practical experience with programming, web development, databases and systems analysis.
-
-Currently, I'm looking for opportunities to **learn, develop my skills and gain professional experience in the technology field**.
-
-## 🚀 Technologies & Tools
+## Technologies & Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,30 +16,45 @@ Currently, I'm looking for opportunities to **learn, develop my skills and gain 
   <img align="center" alt="PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="C#" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="SQLite" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="Visual Studio" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg">
 </div>
 
-## 📚 Currently Learning
+## Areas of Interest
 
-* Software Development
-* Object-Oriented Programming
-* Databases and SQL
-* Web Development
-* Software Engineering
-* C# / .NET
+- Software Development
+- Web Development
+- Business Process Management (BPM)
+- Process Automation
+- Database Management
+- Software Engineering
 
-## 💼 Career Goal
+## Currently Learning
 
-I'm currently seeking an **internship opportunity in technology**, where I can apply my knowledge, contribute to real-world projects and continue developing my technical and professional skills.
+- C# and .NET
+- Object-Oriented Programming
+- Power BI and Data Visualization
+- BPM and Business Process Automation
+- Software Architecture
 
-## 📫 Contact
+## Education
+
+**B.Sc. in Computer Science**  
+UNISAGRADO | 2026 – 2030
+
+**Technical Degree in Systems Development**  
+ETEC Joaquim Ferreira do Amaral | 2022 – 2024
+
+## Contact
 
 <div>
- <a href="mailto:haytansabeh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-haytansabeh%40gmail.com-D1485F?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+  <a href="mailto:haytansabeh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-D1485F?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/haytan-sabeh-854752297/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://hytn1.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20portfolio-6C63FF?style=for-the-badge">
   </a>
 </div>
-
-
