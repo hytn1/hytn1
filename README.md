@@ -75,15 +75,6 @@ I like understanding **how systems work from end to end**: from the process on p
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- Replace with your real projects. Pin them on your profile too. -->
-
-- **Project name**: one line about what it does and the tech used → [repo](https://github.com/hytn1)
-- **Project name**: one line about what it does and the tech used → [repo](https://github.com/hytn1)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
