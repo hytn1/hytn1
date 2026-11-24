@@ -1,53 +1,108 @@
-# Hello World! I'm Haytan Sabeh
+<p align="center">
+  <img width="100%" alt="Haytan Sabeh banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:D1485F&height=240&section=header&text=Hello%20World!%20I'm%20Haytan%20Sabeh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20IT%20Intern&descSize=18&descAlignY=58" />
+</p>
 
-**Computer Science student at UNISAGRADO | IT Intern | Systems Development Technician**
+<p align="center">
+  <b>Computer Science Student • IT Intern • Systems Development Technician</b>
+</p>
 
-I'm a Computer Science student at UNISAGRADO and a graduate in Systems Development from ETEC Jaú. Currently, I'm working as an **IT Intern**, gaining professional experience with corporate systems, BPM (Business Process Management), process automation and IT support.
+<p align="center">
+  <i>Turning business processes into code, one workflow at a time.</i>
+</p>
 
-I have an interest in software development, programming and technology. I'm constantly learning, improving my technical skills and exploring new tools to develop efficient solutions and grow professionally in the technology field.
+---
 
-## Technologies & Tools
+## 🧠 About Me
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="C#" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQLite" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Visual Studio" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg">
-</div>
+I'm a **Computer Science student at UNISAGRADO** and a graduate in **Systems Development from ETEC Jaú**.
 
-## Areas of Interest
+Right now I'm working as an **IT Intern**, getting hands-on experience with corporate systems, **BPM (Business Process Management)**, process automation and IT support. Seeing how software solves real problems inside a company is what drives me to keep studying and building.
 
-- Software Development
-- Web Development
-- Business Process Management (BPM)
-- Process Automation
-- Database Management
-- Software Engineering
+I like understanding **how systems work from end to end**: from the process on paper to the form, the script and the database behind it.
 
-## Currently Learning
+---
 
-- C# and .NET
-- Object-Oriented Programming
-- Power BI and Data Visualization
-- BPM and Business Process Automation
-- Software Architecture
+## 🔥 What I'm Focused On
 
-## Education
+- 🧩 Business process modeling and automation
+- 💻 Software development with **C# and .NET**
+- 🌐 Web development (front-end and back-end)
+- 🗄️ Databases and data integration
+- 📊 Data visualization with **Power BI**
 
-**B.Sc. in Computer Science**  
-UNISAGRADO | 2026 – 2030
+---
 
-**Technical Degree in Systems Development**  
-ETEC Joaquim Ferreira do Amaral | 2022 – 2024
+## 🛠️ Tech Stack
 
-## Contact
+### 🎨 Front-end
+<p>
+  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</p>
 
-<div>
+### ⚙️ Back-end
+<p>
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img alt="C#" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</p>
+
+### 🗄️ Databases
+<p>
+  <img alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="SQLite" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+</p>
+
+### 🧰 Tools
+<p>
+  <img alt="Visual Studio" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg">
+  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+| Topic | Why |
+|---|---|
+| C# and .NET | Building solid back-end applications |
+| Object-Oriented Programming | Writing organized, reusable code |
+| Software Architecture | Structuring systems that scale |
+| Power BI | Turning data into decisions |
+| BPM and Process Automation | Part of my day-to-day at work |
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Replace with your real projects. Pin them on your profile too. -->
+
+- **Project name**: one line about what it does and the tech used → [repo](https://github.com/hytn1)
+- **Project name**: one line about what it does and the tech used → [repo](https://github.com/hytn1)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hytn1&show_icons=true&theme=dark&hide_border=true" />
+  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hytn1&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🎓 Education
+
+- 🎓 **B.Sc. in Computer Science**: UNISAGRADO (2026 – 2030)
+- 🎓 **Technical Degree in Systems Development**: ETEC Joaquim Ferreira do Amaral (2022 – 2024)
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
   <a href="mailto:haytansabeh@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20me-D1485F?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -57,4 +112,8 @@ ETEC Joaquim Ferreira do Amaral | 2022 – 2024
   <a href="https://hytn1.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20portfolio-6C63FF?style=for-the-badge">
   </a>
-</div>
+</p>
+
+<p align="center">
+  <img width="100%" alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:D1485F&height=120&section=footer" />
+</p>
